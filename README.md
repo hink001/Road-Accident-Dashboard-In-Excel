@@ -18,7 +18,7 @@
 - Serious Casualties – Major injuries from accidents.
 - Slight Casualties – Minor injury cases.
 - Casualties by Vehicle Type – Cars, Bikes, Bus, Van, Agriculture vehicles, etc.
-  - Casualties by Road Type – Single carriageway, dual carriageway, slip roads.
+- Casualties by Road Type – Single carriageway, dual carriageway, slip roads.
 
 - Casualties by Road Surface – Dry, wet, or icy conditions.
 
@@ -27,3 +27,29 @@
 - Casualties by Light Condition – Daylight vs. Darkness.
 
 - Monthly Trend Comparison – 2021 vs. 2022 accident pattern.
+ ## 📈Dashboard Insights
+- 🚨 1. Total Casualties
+
+- Total: 87,533
+
+- Fatal: 2,767 (3.2%)
+
+- Serious: 16,037 (18.3%)
+
+- Slight: 68,729 (78.5%)
+
+-👉 Most accidents were slight in nature, with fatal cases being the smallest share.
+
+ ## 🧩Key Learnings
+
+- Data cleaning and transformation in Excel
+
+- Pivot table summarization
+
+- Creating professional dashboards with interactivity
+
+- Applying analytical thinking to find real-world insights
+## 🏁 Conclusion
+
+- This project provides a complete end-to-end Excel analytics solution, from raw data cleaning to an interactive dashboard.
+- It demonstrates how data visualization can reveal meaningful patterns in road safety and accident trends.
