@@ -5,7 +5,7 @@
 ### It helps identify key trends, risk factors, and patterns in accident casualties, enabling data-driven decisions for road safety improvement.
 # ⚙️ Tools Used
 
-Microsoft Excel – For data cleaning, processing, analysis, and visualization
-Pivot Tables – For summarizing accident data
-Slicers & Timeline Filters – For dashboard interactivity
-Charts & Visuals – Donut charts, Bar charts, Tree maps, and Combo charts
+- Microsoft Excel – For data cleaning, processing, analysis, and visualization
+- Pivot Tables – For summarizing accident data
+- Slicers & Timeline Filters – For dashboard interactivity
+- Charts & Visuals – Donut charts, Bar charts, Tree maps, and Combo charts
